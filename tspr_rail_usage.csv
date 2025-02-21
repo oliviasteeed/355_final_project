@@ -1,0 +1,4 @@
+Line,Line_Length_km,Number_of_Stations,Year_Open,Data_Year,Population,Employment,Average_Daily_Boardings_Monday_Friday,Average_Daily_Alightings_Monday_Friday,Average_Daily_Boardings_Saturday,Average_Daily_Alightings_Saturday,Average_Daily_Boardings_Sunday_Holidays,Average_Daily_Alightings_Sunday_Holidays,Total_Annual_Boardings,Total_Annual_Alightings,Average_Speed_kmh,Annual_Capacity_km
+Canada Line,19,16,2009,2023,159000,266000,120400,120400,99600,99600,83900,83900,40409000,40409000,32,908823815
+Expo/Millennium Line,49,38,"1985 (Expo), 2001 (Millennium), 2016 (Millennium-Evergreen Line Extension)",2023,391000,356000,310700,310700,236900,236900,182600,182600,100931000,100931000,40,4620107238
+West Coast Express,68,8,1995,2023,50000,134000,5300,5300,0,0,0,0,1304000,1304000,55,158303362
